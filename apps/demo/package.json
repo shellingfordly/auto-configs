@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@configs/uno": "workspace:^",
+    "@auto-configs/uno": "workspace:^",
     "vue": "^3.4.21"
   },
   "devDependencies": {

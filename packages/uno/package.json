@@ -1,5 +1,5 @@
 {
-  "name": "@configs/uno",
+  "name": "@auto-configs/uno",
   "version": "0.1.0",
   "description": "",
   "main": "./src/index.ts",
@@ -10,8 +10,19 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "homepage": "https://github.com/shellingfordly/auto-configs#readme",
+  "bugs": {
+    "url": "https://github.com/shellingfordly/auto-configs/issues"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellingfordly/auto-configs.git"
+  },
+  "author": "shellingfordly <shellingfordly@qq.com>",
+  "license": "MIT",
   "devDependencies": {
     "@unocss/core": "^0.59.4",
     "@unocss/transformer-variant-group": "^0.59.4",
