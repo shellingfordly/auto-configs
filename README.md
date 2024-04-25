@@ -1,3 +1,3 @@
-# Configs
+# Auto-Configs
 
-Some common custom configurations
+Some individualistic custom configurations
