@@ -11,11 +11,14 @@ import {
 
 import { handleShortcuts } from "./shortcuts"
 import { handleVariants } from "./variants";
+import { handleRules } from "./rules";
 
 function defineUnocssConfig(config: UserConfig) {
   return defineConfig({
     ...config,
 
+    rules: handleRules(config),
+    variants: handleVariants(config),
     shortcuts: handleShortcuts(config),
     presets: [
       presetUno(),
