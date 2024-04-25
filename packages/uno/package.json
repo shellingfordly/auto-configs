@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@unocss/core": "^0.59.4",
+    "@unocss/transformer-variant-group": "^0.59.4",
     "unocss": "^0.59.4"
   }
 }

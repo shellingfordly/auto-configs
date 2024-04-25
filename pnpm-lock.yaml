@@ -39,6 +39,12 @@ importers:
 
   packages/uno:
     devDependencies:
+      '@unocss/core':
+        specifier: ^0.59.4
+        version: 0.59.4
+      '@unocss/transformer-variant-group':
+        specifier: ^0.59.4
+        version: 0.59.4
       unocss:
         specifier: ^0.59.4
         version: 0.59.4(postcss@8.4.38)(vite@5.2.10)
