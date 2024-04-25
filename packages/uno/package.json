@@ -1,6 +1,6 @@
 {
   "name": "@auto-configs/uno",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "./src/index.ts",
   "module": "lib/index.js",
@@ -10,7 +10,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "homepage": "https://github.com/shellingfordly/auto-configs#readme",
+  "homepage": "https://github.com/shellingfordly/auto-configs/blob/main/packages/uno/README.md",
   "bugs": {
     "url": "https://github.com/shellingfordly/auto-configs/issues"
   },
