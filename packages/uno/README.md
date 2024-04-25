@@ -4,7 +4,7 @@ Some individualistic custom configurations for unocss
 
 ## Document
 
-TODO
+To check out docs, visit [auto-configs](https://auto-configs.vercel.app/)
 
 ## Install
 
