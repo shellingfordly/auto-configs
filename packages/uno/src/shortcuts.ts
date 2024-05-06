@@ -9,6 +9,7 @@ const flex = {
   fsb: "flex items-start justify-between",
   fcb: "flex items-center justify-between",
   feb: "flex items-end justify-between",
+  fca: "flex items-center justify-around",
 };
 
 const hover = [
